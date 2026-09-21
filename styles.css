@@ -1,0 +1,22 @@
+body{
+    background-color: tomato;
+    color: white;
+    width: 80%;
+    margin: 0 auto;
+    } 
+
+    h4{
+        color: blue;
+        text-align: center;
+        border:2px solid red;
+        font-family: italic;
+    }
+    h1{
+        color: green;
+        text-align: center;
+    }
+    h4:hover{
+        background-color: yellow;
+        color: red;
+        font-size: large;
+    }
