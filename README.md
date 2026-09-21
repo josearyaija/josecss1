@@ -1,2 +1,0 @@
-# josecss
-lecture classes
